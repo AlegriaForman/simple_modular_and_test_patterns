@@ -1,0 +1,29 @@
+{
+  "name": "simple_modular_and_test_patters",
+  "version": "1.0.0",
+  "description": "Simple modular and test patterns",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlegriaForman/simple_modular_and_test_patterns.git"
+  },
+  "author": "Ali Forman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlegriaForman/simple_modular_and_test_patterns/issues"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^2.7.0",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^2.0.0",
+    "gulp-mocha": "^2.2.0",
+    "mocha": "^2.4.5"
+  }
+}
